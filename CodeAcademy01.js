@@ -22,7 +22,10 @@ var userAnswer = prompt("Do you want to race Bieber on stage? yes/no");
 if (userAnswer = "yes") 
 {
     console.log("You and Bieber start racing. It's neck and neck! You win by a shoelace!");
-} else {
+}
+
+else 
+{
     console.log("Oh no! Bieber shakes his head and sings 'I set a pace, so I can race without pacing.'");
 }
 
